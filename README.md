@@ -28,5 +28,3 @@
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeehwan-lee&langs_count=8)](https://github.com/jeehwan-lee/github-readme-stats)

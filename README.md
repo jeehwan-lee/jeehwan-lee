@@ -1,3 +1,14 @@
+### Web Developer
+- Web Developer and Student
+
+### I can use...
+- JAVA
+- Spring
+- SpringBoot
+- MySQL
+
+
+
 <h3>
 📚 Skill
 </h3>

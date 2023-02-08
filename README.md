@@ -3,9 +3,9 @@ Hi, I'm JeeHwan from korea.
 I'm Web Developer and I always study new technique.
 
 ### 🌱 Experience
-- **특허청** - 청소년발명가프로그램 (2011)
+- **한국발명진흥회** - 청소년 발명가 프로그램 (2011)
 - **Microsoft** - Imagine Cup (2012)
-- **광운대학교** - 컴퓨터소프트웨어학과 (2013~2018)
+- **광운대학교** - 컴퓨터소프트웨어 (2013~2018)
 - **(주)메이크위드** - 아두이노 프로젝트 제작 (2016)
 
 ### 💪 Skill

@@ -7,7 +7,7 @@ I'm Web Developer and I always study new technique.
 - **Microsoft** - Imagine Cup *(2012)*
 - **광운대학교** - 컴퓨터소프트웨어 *(2013~2018)*
 - **(주)메이크위드** - 아두이노 프로젝트 제작 *(2016)*
-- **비즈테크아이** - 웹 개발자 *(2023)*
+- **(주)비즈테크아이** - 웹 개발자 *(2023~현재)*
 
 ### 📚 Skill
 - **Frontend**

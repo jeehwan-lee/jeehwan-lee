@@ -20,7 +20,6 @@ I'm Web Developer and I always study new technique.
     <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">&nbsp
-    <img src="https://img.shields.io/npm/v/zustand?style=flat&colorA=000000&colorB=000000">
   </p>
 - **Backend**
   <p>
